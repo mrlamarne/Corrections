@@ -8,7 +8,7 @@ with open('devoir_1_le_hardware(5).csv','r')as f:
   #Boucle d'analyse du csv
   int = 0;
   for row in data:
-      #Conentu du  contenu
+      #Contenu du  contenu
         int += 1
         noteEtudiant = 0
         #Question1
